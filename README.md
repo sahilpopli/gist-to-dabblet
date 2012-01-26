@@ -9,7 +9,7 @@ User Script: Gist to dabblet
 
 1. Make sure you have user scripts enabled in your browser (these instructions refer to the latest versions of the browsers):
 
-    * CHROME: User scripts are enabled by default. Continue to STEP 2. Or, install it directly from [userscript.org](http://userscripts.org/scripts/show/123354).
+    * CHROME: User scripts are enabled by default. Continue to STEP 2. Or, install it directly from [userscript.org](http://userscripts.org/scripts/show/124217).
 
     * FIREFOX: Install [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), then continue to STEP 2.
 
