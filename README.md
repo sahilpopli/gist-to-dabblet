@@ -21,6 +21,10 @@ User Script: Gist to dabblet
 
 2. Install the "Gist to Dabblet" user script by clicking here: [gist-to-dabblet.user.js](https://github.com/Mottie/gist-to-dabblet/raw/master/gist-to-dabblet.user.js).
 
+### Screenshot
+
+![button](https://github.com/Mottie/gist-to-dabblet/raw/master/images/dabblet-button.jpg)
+
 ### Changelog
 
 #### Version 1.0 (1/26/2012)
