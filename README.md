@@ -27,6 +27,11 @@ User Script: Gist to dabblet
 
 ### Changelog
 
+#### Version 1.0.1 (1/26/2012)
+
+* Fixed subdomain to make the script work in Firefox.
+* Added an icon.
+
 #### Version 1.0 (1/26/2012)
 
 * Initial post.
